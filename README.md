@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @JJenus
 - 👀 I’m interested in ...
-Mostly backend engineering and front-end engineering too, 
-but not a big fan of CSS. 
-- 🌱 I’m currently learning ...
-More about Software Engineering and DevOps in the 
-ALX SE 12 months program with about 3 months to finish. 
+Mostly backend engineering, front-end engineering, 
+but not a big fan of CSS.
 - 💞️ I’m looking to collaborate on ...
-On Java, Javascript, PHP and Vue projects 
+On Java, Javascript, PHP, and Vue projects 
 - 📫 How to reach me ...
-LinkedIn: Alakere Jenus (there's only person in the world with that name) 
+LinkedIn: Alakere Jenus (there's only one person in the world with that name) 
 
 ## I did this, to be motivated to update it. 
 <!---
