@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JJenus
+- 👋 Hi, I’m a software engineer
 - 👀 I’m interested in ...
 Mostly backend engineering, front-end engineering, 
 but not a big fan of CSS.
