@@ -3,9 +3,7 @@
 Mostly backend engineering, front-end engineering, 
 but not a big fan of CSS.
 - 💞️ I’m looking to collaborate on ...
-On Java, Javascript, PHP, and Vue projects 
-- 📫 How to reach me ...
-LinkedIn: Alakere Jenus (there's only one person in the world with that name) 
+On Java, Javascript, PHP, and Vue projects
 
 ## I did this, to be motivated to update it. 
 <!---
